@@ -5,13 +5,16 @@ My academic and professional careers have been built around photography. This pa
 
 ![2D image 2](/assets/2D/2D_i2.jpg)
 
+[Thesis Paper](https://core.ac.uk/download/pdf/225126748.pdf)
+
 ![2D image 3](/assets/2D/2D_i3.png)
 
 ![2D image 4](/assets/2D/2D_i4.png)
 
 
-I now have four years of teaching experience in photography. Courses include, Digital Imaging, Black and White film photography and printing, color film development, and many alternative process techniques, including Gum Bichromate. Most recently, I have taken on teaching a course in Computer Imagery. This course involves entry-level coding awareness, intermediate photo manipulation techniques, and 3D rendering. 
+I now have four years of teaching experience in photography. Courses include, Digital Imaging, Black and White film photography and printing, color film development, and many alternative process techniques, including Gum Bichromate. 
 
+Most recently, I have taken on teaching a course in Computer Imagery. This course involves entry-level coding awareness, intermediate photo manipulation techniques, and 3D rendering.
 
 ![3D gif 1](/assets/3D/3D_a1.gif)
 
@@ -23,5 +26,4 @@ I now have four years of teaching experience in photography. Courses include, Di
 
 My degrees and varied teaching opportunities have provided me with a broad range of skill sets in analog and digital photography, various printing techniques, and collaborative design. I think it is important to highlight my role as instructor at the collegiate level. There is a lot of responsibility involved in designing and leading professional courses. I get to work with some incredibly talented artists, and it’s my job to provide them with constructive feedback on how they might better their work. 
 
-
-ctrl + k , v for preview
+ I have also been working on an auto color balance app in my own time, [Grayshift](https://github.com/timothyfaris/Grayshift), which is being developed in Processing. I know that my background in chemical printing techniques has helped provide some pretty specific insights when working on imaging software, and Processing has been a great way for me to start transitioning an understanding of visual art into code.
