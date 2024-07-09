@@ -3,7 +3,7 @@ My academic and professional careers have been built around photography. This pa
 
 Along with my degrees, I have had varied teaching opportunities that have provided me with a broad range of skill sets in analog and digital photography, various printing techniques, and collaborative design. I think it is important to highlight my role as instructor at the collegiate level. There is a lot of responsibility involved in designing and leading professional courses. I get to work with some incredibly talented artists, and it’s my job to provide them with constructive feedback on how they might better their work. 
 
-![2D image 5](/assets/2D/2D_i5.jpg)
+![2D image 5](/assets/2D/2D_i5.png)
 
 ![2D image 2](/assets/2D/2D_i2.jpg)
 
