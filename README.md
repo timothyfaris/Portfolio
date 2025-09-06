@@ -21,7 +21,7 @@ I graduated with my MFA in 2019 and have been teaching ever since (with a slight
 
 <!-- ![2D image 9](/assets/2D/2D_i9.jpg) -->
 
-My favortite course to teach was online for Indiana University called Intro to Computer Imagery, which involved entry-level coding, intermediate photo manipulation techniques, and 3D rendering.
+One of my favorite courses to teach was online for Indiana University and called Intro to Computer Imagery. This course involved entry-level coding, photo editing, and 3D rendering.
 
 #### Computer Imaging example - camera prototype rendered in Blender
 
