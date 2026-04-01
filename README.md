@@ -29,9 +29,7 @@ One of my favorite courses to teach was online for Indiana University and called
 #### Computer Imaging 3D example - projection display from a pinhole camera prototype  -->
 
 <!-- ![2D image 10](/assets/2D/2D_i10.png) -->
-
 <!-- ![3D gif 1](/assets/3D/3D_a1.gif) -->
-
 <!-- ![3D gif 2](/assets/3D/3D_a2.gif) -->
 
 <!-- This image shows the interior of a pinhole camera modeled in Blender (this view is looking into the camera from the perspective of the lens). The circles of light are projections created by the pinhole lens rendered in EEVEE. -->
@@ -45,6 +43,10 @@ Creative coding and generative art became a facet of one of the courses I taught
 
 <!-- Most recently I served as the 2D Facilities Assistant at the University of San Diego. Within this role I worked directly with students and faculty to streamline the creative and learning processes. My responsibilities included the functional maintenance of all department facilities, including the chemical darkroom, large format print lab, woodworking studio, metalworking studio, laser engravers, and computer labs. I was also responsible for organizing and maintaining a physical inventory of over 300 items for the department's Audio/Visual rental system - mainly photography and videography equipment. -->
 
-In my spare time, I've been developing an auto color balance app, [processing-greyShift](https://github.com/timothyfaris/processing-greyShift), using the Processing Development Environment. My background in chemical printing techniques has provided unique insights into imaging software, and Processing has been an excellent tool for transitioning my understanding of visual art into code.
+In my spare time, I've been developing an auto color balance app, [processing-greyShift](https://github.com/timothyfaris/processing-greyShift), initially using the Processing Development Environment. My background in chemical printing techniques has provided unique insights into imaging software, and Processing has been an excellent tool for transitioning my understanding of visual art into code.
 
-This app is now live at https://greyshift.online/
+A version of this app is now live at https://greyshift.online/ - right now hosted for free on [Render](https://render.com/) and it can only handle images that are sized for web display (2000px on the long side).
+
+The most recent development has been porting this algorithm to C, and building it as a native module for the open-source RAW image editor, [darktable](https://www.darktable.org/). Currently only usable in Ubuntu. With this extension you can now apply the greyShift algorithm to RAW files and use it within a non-destructive workflow, rather than a finishing filter. 
+
+I am working on making this available for Windows and macOS users.
