@@ -11,7 +11,7 @@ I have since held various teaching appointments, equipping me with skill in both
 
 <!-- ![2D image 2](/assets/2D/2D_i2.jpg) -->
 
-[Link to MFA Thesis](https://core.ac.uk/download/pdf/225126748.pdf)
+[Link to MFA Thesis](https://scholarworks.indianapolis.iu.edu/items/a7d0f2c3-ef73-416f-92a0-4ea849fba412)
 
 <!-- ![2D image 6](/assets/2D/2D_i6.jpg) -->
 
@@ -34,7 +34,7 @@ One of my favorite courses to teach was online for Indiana University and called
 
 <!-- This image shows the interior of a pinhole camera modeled in Blender (this view is looking into the camera from the perspective of the lens). The circles of light are projections created by the pinhole lens rendered in EEVEE. -->
 
-Creative coding and generative art became a facet of one of the courses I taught at Indiana University called, Intro to Computer Imagery. This style of artmaking has become a major creative outlet for me, and I now use coding as a means to turn some of my still images into animations.
+Creative coding and generative art became a facet of one of the courses I taught at Indiana University called, Intro to Computer Imagery. This style of artmaking has become a significant creative outlet for me, and I now use coding as a means to turn some of my still images into animations.
 
 #### Computer Imagery, Animation Example - Sine wave through tulips
 
@@ -47,6 +47,8 @@ In my spare time, I've been developing an auto color balance app, [processing-gr
 
 A version of this app is now live at https://greyshift.online/ - right now hosted for free on [Render](https://render.com/) and it can only handle images that are sized for web display (2000px on the long side).
 
-The most recent development has been porting this algorithm to C, and building it as a native module for the open-source RAW image editor, [darktable](https://www.darktable.org/). Currently only usable in Ubuntu. With this extension you can now apply the greyShift algorithm to RAW files and use it within a non-destructive workflow, rather than a finishing filter. 
+The most recent development has been porting this algorithm to C, and building it as a native module for the open-source RAW image editor, [darktable](https://www.darktable.org/). 
 
-I am working on making this available for Windows and macOS users.
+I originally developed this in Ubuntu, and have since brought it to Windows - [download here](https://github.com/timothyfaris/darktable-greyShift-Windows). This extension enables the greyShift algorithm to batch process RAW files, and to use it within a non-destructive workflow, rather than just as a finishing filter.
+
+I'm still refining this adaptation, but I believe that the core funcionality is working as well as the original Processing sketch. 
